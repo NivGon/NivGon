@@ -1,6 +1,6 @@
 <h1 align="left">Ahalan 👋, I'm Niv</h1>
 
-I am a student, 15 years old, atheist
+I am a student, 15 years old, atheist.
 
 Main reason why i am here is to learn
 
