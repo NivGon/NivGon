@@ -1,6 +1,6 @@
 <h1 align="left">Ahalan 👋, I'm Niv</h1>
 
-I am a student, 15 years old\n
+I am a student, 15 years old/n
 atheist
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
