@@ -8,9 +8,3 @@ I am a student, 15 years old.
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox&logoColor=white)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OriginalNiv/OriginalNiv/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OriginalNiv/OriginalNiv/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/OriginalNiv/OriginalNiv/output/github-snake.svg" />
-</picture>
