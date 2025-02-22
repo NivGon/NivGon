@@ -5,7 +5,7 @@
 
 🧑‍🎓 I'm a student, 15 years old.
 
-🔭 I’m currently working on ESP Project
+🔭 I’m currently working on an ESP Project
 
 🌱 I’m currently learning C#
 
