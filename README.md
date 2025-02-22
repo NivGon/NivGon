@@ -1,9 +1,5 @@
 <div align="center">
 <h1>Ahalan 👋, I'm Niv</h1>
-  
-![image](https://github.com/user-attachments/assets/eef388b4-6738-4100-ad2c-cace467e9522)
-
-
 
 I am a student, 15 years old.
 
