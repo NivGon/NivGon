@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Ahalan 👋, I'm Niv</h1>
   
-<h2>💫 About Me:</h2>
+### 💫 About Me
 
 I am a student, 15 years old.
 🔭 I’m currently working on ESP Project
