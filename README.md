@@ -14,6 +14,6 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NivGon&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NivGon&show_icons=true&theme=catppuccin_mocha)
 
 
