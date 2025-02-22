@@ -3,7 +3,7 @@
   
 ### 💫 About Me
 
-I am a student, 15 years old.
+🧑‍🎓 I am a student, 15 years old.
 
 🔭 I’m currently working on ESP Project
 
