@@ -5,7 +5,7 @@
 
 🧑‍🎓 I'm a student, 16 years old.
 
-🌱 I’m currently learning C# & Rust
+🌱 I’m currently learning C# And Rust
 
 ### <h1>Tools that I think I know how to use </h1>
 
