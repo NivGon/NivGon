@@ -16,6 +16,3 @@
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NivGon&show_icons=true&theme=catppuccin_mocha)
-
-
